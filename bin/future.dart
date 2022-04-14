@@ -5,6 +5,9 @@ void main() async{
   ///TASK 1:
 
 
+  //prizintatsiyadagi 2 ta masala
+
+
   /*1-masala*/
   //int n = 100;
   // fetchSumma(n).then((value) {
@@ -28,6 +31,12 @@ void main() async{
 
   /*2-masala*/
   // print('true'.isBool);
+
+
+  /**
+   * qolgan 3 ta masalalar menda ozi shundoq ham yangicha usulda bor ularni
+   * esa kecha sizga korsatganman yana qaytib copy qilib tashlagim kelmadi uzur
+   */
 
 }
 
